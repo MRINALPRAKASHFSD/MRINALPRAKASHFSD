@@ -35,7 +35,8 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MRINALPRAKASHFSD&theme=radical)
 
-![Visitor Count](https://count.getloli.com/get/@MRINALPRAKASHFSD.github.profile?theme=rule34)
+![Profile views](https://komarev.com/ghpvc/?username=MRINALPRAKASHFSD&label=Profile%20views&color=0e75b6&style=flat)
+
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MRINALPRAKASHFSD&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
