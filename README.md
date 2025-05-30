@@ -1,7 +1,7 @@
 - 👋 Hi, I’m MRINALPRAKASH
 - 👀 I’m interested in FULL STACK DEVELOPMENT, MACHINE LEARNING , DATA SCIENCE 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=1E90FF&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=I+AM+MRINAL+PRAKASH;FULL+STACK+DEVELOPER;MACHINE+LEARNING+%26+JAVA+ENTHUSIAST" alt="Typing Effect - Mrinal Prakash" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=1E90FF&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=HI+%F0%9F%91%8B%2C+I+AM+MRINAL+PRAKASH;FULL+STACK+DEVELOPER;MACHINE+LEARNING+%26+JAVA+ENTHUSIAST" alt="Typing Effect - Mrinal Prakash" />
 </p>
 
 
