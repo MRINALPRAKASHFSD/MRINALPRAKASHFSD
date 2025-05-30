@@ -12,7 +12,7 @@
 
 - 📫 How to reach me
 -  linkedin: https://www.linkedin.com/in/mrinal-prakash-a5482b339?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
--  whatsapp:  [![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-green?logo=whatsapp)](https://wa.me/919876543210)
+-  whatsapp:  [![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-green?logo=whatsapp)](https://wa.me/918920380253)
 -  snapchat:  https://www.snapchat.com/add/mrinalprakash9?share_id=vIGp9s2-YXk&locale=en-IN
 - 😄 Pronouns: he/him
 
