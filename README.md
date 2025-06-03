@@ -16,6 +16,10 @@
 -  snapchat:  https://www.snapchat.com/add/mrinalprakash9?share_id=vIGp9s2-YXk&locale=en-IN
 - 😄 Pronouns: he/him
 
+-  ## 💬 Dev Quote of the Day
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages  
