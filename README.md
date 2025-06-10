@@ -11,9 +11,23 @@
 
 
 - 📫 How to reach me
--  linkedin: https://www.linkedin.com/in/mrinal-prakash-a5482b339?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 -  whatsapp:  [![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-green?logo=whatsapp)](https://wa.me/918920380253)
--  snapchat:  https://www.snapchat.com/add/mrinalprakash9?share_id=vIGp9s2-YXk&locale=en-IN
+-  <h2 align="center">📲 Connect with Me</h2>
+<p align="center">
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/mrinal-prakash-a5482b339?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <!-- Snapchat -->
+  <a href="https://www.snapchat.com/add/mrinalprakash9?share_id=vIGp9s2-YYk&locale=en-IN" target="_blank">
+    <img src="https://img.shields.io/badge/Snapchat-%23FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" alt="Snapchat"/>
+  </a>
+
+</p>
+
+
 - 😄 Pronouns: he/him
 
 -  ## 💬 Dev Quote of the Day
