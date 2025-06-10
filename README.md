@@ -8,20 +8,17 @@
 
 
 
+<!-- Typing SVG Title -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=1DA1F2&center=true&vCenter=true&width=435&lines=LET'S+CONNECT!+🤝;FOLLOW+ME+ON+SOCIALS+🚀" alt="Typing SVG">
+</h2>
 
-
-- ##📫 How to reach me
-
-
-<!-- WhatsApp -->
-<a href="https://wa.me/918920380253" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-</a>
-
+<!-- Socials -->
+<p align="center">
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/mrinal-prakash-a5482b339?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" style="margin: 0 10px;" />
   </a>
 
   <!-- Snapchat -->
@@ -29,9 +26,15 @@
     <img src="https://img.shields.io/badge/Snapchat-%23FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" alt="Snapchat"/>
   </a>
 
+  <!-- WhatsApp -->
+  <a href="https://wa.me/918920380253" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+
 </p>
 
 
+  
 - 😄 Pronouns: he/him
 
 -  ## 💬 Dev Quote of the Day
