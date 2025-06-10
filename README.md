@@ -10,10 +10,14 @@
 
 
 
-- 📫 How to reach me
--  whatsapp:  [![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-green?logo=whatsapp)](https://wa.me/918920380253)
--  <h2 align="center">📲 Connect with Me</h2>
-<p align="center">
+- ##📫 How to reach me
+
+
+<!-- WhatsApp -->
+<a href="https://wa.me/918920380253" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+</a>
+
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/mrinal-prakash-a5482b339?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
