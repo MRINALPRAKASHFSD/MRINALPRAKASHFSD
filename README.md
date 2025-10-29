@@ -282,7 +282,85 @@ Infrastructure and deployment:
 
 ---
 
+## 🚀 Running the Application
+
+### **NEW: Working MVP Implementation Available!**
+
+This repository now includes a **fully functional MVP** that you can run immediately!
+
+#### Quick Start (2 minutes):
+
+```bash
+# 1. Install backend dependencies
+cd backend
+npm install
+
+# 2. Start the backend server
+npm start
+
+# 3. Open frontend/index.html in your browser
+```
+
+**See [RUNNING_GUIDE.md](./RUNNING_GUIDE.md) for detailed instructions.**
+
+#### What You Get:
+
+✅ **Working Backend API** (Node.js + Express)
+- User authentication (register, login, JWT)
+- Provider management
+- Service listings (create, browse, search)
+- Booking system
+- In-memory database (no MongoDB setup required!)
+
+✅ **Functional Web Interface**
+- Modern, responsive UI
+- User registration & login
+- Service browsing
+- Booking management
+- Real-time statistics
+
+✅ **Test Data & Mock Features**
+- Mock OTP verification (use any 6 digits)
+- Sample categories pre-loaded
+- No external dependencies required
+
+### Screenshots
+
+**Backend Running:**
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║       BIHAR SERVICE MARKETPLACE API - MVP PHASE                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+🚀 Server running on http://localhost:3000
+📚 API Documentation: http://localhost:3000/
+💚 Health Check: http://localhost:3000/health
+```
+
+**Frontend Interface:**
+- Beautiful gradient design
+- Easy-to-use forms
+- Real-time updates
+- Mobile responsive
+
+---
+
 ## 📈 Quick Start Guide
+
+### For Running the Application
+
+1. **Install & Run** (See [RUNNING_GUIDE.md](./RUNNING_GUIDE.md))
+   ```bash
+   cd backend && npm install && npm start
+   ```
+   Then open `frontend/index.html` in your browser
+
+2. **Test the Features**
+   - Register as Provider or Customer
+   - Create services (providers)
+   - Browse and search services
+   - Make bookings
+   - View statistics
 
 ### For Developers
 
