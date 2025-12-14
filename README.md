@@ -1,12 +1,11 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Waving Hand" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi,+I+am+Mrinal+Prakash;Full-Stack+Software+Developer;Python+%26+Java+Programmer;AIML+Enthusiast; alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=false&vCenter=true&width=500&lines=Hi,+I+am+Mrinal+Prakash;Full-Stack+Software+Developer;Python+%26+Java+Programmer;AIML+Enthusiast;Evolving+in+Data+Science" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  <br />
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the Day" />
 </div>
 
@@ -54,5 +53,3 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="streak stats"/>
 </div>
-
-
