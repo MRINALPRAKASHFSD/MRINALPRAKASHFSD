@@ -19,14 +19,19 @@
 
 ---
 
-## 👨‍💻 About Me
+### ⚡ About Me
 
-- Full Stack Software Developer skilled in **React, Node.js, Express, Supabase, PostgreSQL**
-- AI/ML enthusiast working with **TensorFlow, PyTorch, Data Science pipelines**
-- Strong foundation in **Java, Python, DSA & OOP**
+Hi, I'm **Mrinal Prakash**, a versatile **Full Stack Software Developer** based in **Delhi, India**.
+
+While my primary weapon is the **MERN Stack** (MongoDB, Express, React, Node.js) for building scalable web applications, I am a true all-rounder. I bridge the gap between complex backend logic and modern frontend interfaces, while actively integrating **AI/ML capabilities** into my solutions.
+
+* 💻 **Full Stack Web:** MongoDB, Express.js, React, Node.js, Supabase, PostgreSQL.
+* 🤖 **AI & Data Science:** Python, TensorFlow, PyTorch, Data Science Pipelines.
+* ⚙️ **Software Engineering:** Strong command over **Java**, **OOP**, and **Data Structures & Algorithms (DSA)**.
+* 🔐 **Evolving Skills:** Currently expanding into **Cybersecurity** and Cloud Architecture.
+* 💬 **Motto:** *TECH FOR GOOD*
 
 ---
-
 ## 🔗 Connect With Me
 
 <div align="center">
