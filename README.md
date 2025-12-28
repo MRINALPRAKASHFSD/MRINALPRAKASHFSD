@@ -1,7 +1,16 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="Wave Animation">
+  <br>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Mrinal+Prakash" alt="Typing SVG" />
+  </a>
+</div>
 
-  <h1>Hi, I'm Mrinal Prakash</h1>
+<h3 align="center">
+    Full Stack Software Developer • Python & Java Programmer • AI / ML Enthusiast
+</h3>
+
+<hr>
 
   <a href="https://readme-typing-svg.demolab.com">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Developer;Python+%26+Java+Programmer;AI+%2F+ML+Enthusiast;Building+Scalable+Real-World+Systems" />
@@ -86,10 +95,7 @@
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MRINALPRAKASHFSD&theme=onedark&no-frame=true&row=1&column=6"/>
-</div>
-
+[![Trophies](https://github-profile-trophies.vercel.app/?username=MRINALPRAKASHFSD&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophies)
 
 
 
