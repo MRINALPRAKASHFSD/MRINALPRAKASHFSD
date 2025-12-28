@@ -1,55 +1,105 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=false&vCenter=true&width=500&lines=Hi,+I+am+Mrinal+Prakash;Full-Stack+Software+Developer;Python+%26+Java+Programmer;AIML+Enthusiast;Evolving+in+Data+Science" alt="Typing SVG" />
-  </a>
-</div>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the Day" />
-</div>
+  <h1>Hi, I'm Mrinal Prakash</h1>
 
----
-
-### 👨‍💻 About Me
-
-- 🔭 I’m currently working on **Full-Stack Development** and **AI/ML projects**.
-- 🌱 I’m currently learning **Data Science** and **Cybersecurity protocols**.
-- ☕ I have a strong foundation in **Java** and **Python**.
-
-<div align="center"> 
-  <a href="https://www.linkedin.com/in/mrinal-prakash-a5482b339/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/mrinalprakash.dev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo"  />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail logo"  />
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Developer;Python+%26+Java+Programmer;AI+%2F+ML+Enthusiast;Building+Scalable+Real-World+Systems" />
   </a>
 </div>
 
 ---
 
-### 🛠️ Languages and Tools
+## 👨‍💻 About Me
+
+- Full Stack Developer skilled in **React, Node.js, Express, Supabase, PostgreSQL**
+- AI/ML enthusiast working with **TensorFlow, PyTorch, Data Science pipelines**
+- Former **Full Stack Developer Intern at Muesports India** (June – August 2025)
+- Creator of **KRMU Connect** & **THRYLOS** social platforms
+- Strong foundation in **Java, Python, DSA & OOP**
+
+---
+
+## 🔗 Connect With Me
 
 <div align="center">
-  <br />
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,js,react,nodejs,express,django,mysql,mongodb,git,linux,tensorflow,pytorch&perline=8" />
+  <a href="https://www.linkedin.com/in/mrinal-prakash-a5482b339" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+  </a>
+  <a href="https://www.instagram.com/mrinalprakash.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+  </a>
+  <a href="mailto:mrinalprakash.dev@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
   </a>
 </div>
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| **KRMU Connect** | Meme-based social networking platform for students with tagging and discovery | HTML, Tailwind, JavaScript, Supabase, PostgreSQL |
+| **THRYLOS** | Modern animated UI social platform frontend | React, Tailwind, CSS Animations |
+| **Muesports Internship Work** | Admin dashboards, backend modules, automation systems | Node.js, Express, MySQL |
+
+---
+
+## 🧰 Tech Stack
+
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+
+### ⚙ Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,java,django,flask" />
+
+### 🗄 Databases
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,firebase,supabase" />
+
+### 🤖 AI / Data Science
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<br/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python&logoColor=black"/>
+
+### 🛠 Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,linux,figma,vscode" />
+<br/>
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MRINALPRAKASHFSD&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MRINALPRAKASHFSD&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 
+
+## Github Streak 🔥
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="streak stats"/>
+  <img src="https://streak-stats.demolab.com?user=MRINALPRAKASHFSD&theme=tokyonight&hide_border=true"/>
 </div>
+
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MRINALPRAKASHFSD&theme=onedark&no-frame=true&row=1&column=6"/>
+</div>
+
+
+
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MRINALPRAKASHFSD&theme=tokyo-night&hide_border=true"/>
+
+---
+💡 Quote of the Day
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</div>
+
