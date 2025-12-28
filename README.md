@@ -21,10 +21,8 @@
 
 ## 👨‍💻 About Me
 
-- Full Stack Developer skilled in **React, Node.js, Express, Supabase, PostgreSQL**
+- Full Stack Software Developer skilled in **React, Node.js, Express, Supabase, PostgreSQL**
 - AI/ML enthusiast working with **TensorFlow, PyTorch, Data Science pipelines**
-- Former **Full Stack Developer Intern at Muesports India** (June – August 2025)
-- Creator of **KRMU Connect** & **THRYLOS** social platforms
 - Strong foundation in **Java, Python, DSA & OOP**
 
 ---
@@ -45,15 +43,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| **KRMU Connect** | Meme-based social networking platform for students with tagging and discovery | HTML, Tailwind, JavaScript, Supabase, PostgreSQL |
-| **THRYLOS** | Modern animated UI social platform frontend | React, Tailwind, CSS Animations |
-| **Muesports Internship Work** | Admin dashboards, backend modules, automation systems | Node.js, Express, MySQL |
-
----
 
 ### 🧰 Tech Stack
 
