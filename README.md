@@ -6,9 +6,6 @@
   </a>
 </div>
 
-<h3 align="center">
-    Full Stack Software Developer • Python & Java Programmer • AI / ML Enthusiast
-</h3>
 
 <hr>
 
