@@ -138,9 +138,8 @@ While my primary weapon is the **MERN Stack** (MongoDB, Express, React, Node.js)
 
 ## 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MRINALPRAKASHFSD&theme=dark&hide_border=true" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=MRINALPRAKASHFSD&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 
 
 ## 🏆 GitHub Trophies
