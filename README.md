@@ -104,7 +104,11 @@ While my primary weapon is the **MERN Stack** (MongoDB, Express, React, Node.js)
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas" />
   <img width="12" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="matplotlib" />
+  <img width="12" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="jupyter" />
 </div>
 
 #### ☁️ Hosting & Cloud
@@ -126,7 +130,6 @@ While my primary weapon is the **MERN Stack** (MongoDB, Express, React, Node.js)
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode" />
 </div>
-
 
 ## 📊 GitHub Stats
 
