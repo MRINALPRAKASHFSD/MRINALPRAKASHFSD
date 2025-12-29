@@ -18,16 +18,17 @@
 
 ### ⚡ About Me
 
-Hi, I'm **Mrinal Prakash**, a versatile **Full Stack Software Developer** based in **Delhi, India**.
+Hi, I'm **Mrinal Prakash**, a **Full Stack Software Developer** based in **Delhi, India**.
 
-While my primary weapon is the **MERN Stack** (MongoDB, Express, React, Node.js) for building scalable web applications, I am a true all-rounder. I bridge the gap between complex backend logic and modern frontend interfaces, while actively integrating **AI/ML capabilities** into my solutions.
+I am a versatile engineer who speaks the language of both **Code and Design**. I switch seamlessly between the **MERN Stack** (React) for dynamic web apps and the **MEAN Stack** (Angular) for scalable enterprise solutions. Beyond the terminal, I have a sharp eye for aesthetics, using tools like **Canva** to prototype interfaces and create compelling visual narratives.
 
-* 💻 **Full Stack Web:** MongoDB, Express.js, React, Node.js, Supabase, PostgreSQL.
-* 🤖 **AI & Data Science:** Python, TensorFlow, PyTorch, Data Science Pipelines.
-* ⚙️ **Software Engineering:** Strong command over **Java**, **OOP**, and **Data Structures & Algorithms (DSA)**.
-* 🔐 **Evolving Skills:** Currently expanding into **Cybersecurity** and Cloud Architecture.
-* 💬 **Motto:** *TECH FOR GOOD*
+* 🚀 **Stack Master:** Proficient in **MERN** (MongoDB, Express, React, Node) & **MEAN** (Angular) Stacks.
+* 🎨 **Creative Design:** Skilled in **Canva** and **Figma** for UI prototyping, branding, and visual storytelling.
+* 🤖 **AI & Data:** Integrating intelligent models using **Python, TensorFlow, and PyTorch**.
+* ⚙️ **Core Engineering:** Strong foundation in **Java**, **OOP**, and **Data Structures & Algorithms (DSA)**.
+* 💬 **Motto:** *"Logic in the code, magic in the design."*
 
+---
 ---
 ## 🔗 Connect With Me
 
