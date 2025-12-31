@@ -132,6 +132,17 @@ I am a versatile engineer who speaks the language of both **Code and Design**. I
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode" />
 </div>
 
+#### 🚀 GitHub Presence
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MRINALPRAKASHFSD&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MRINALPRAKASHFSD&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MRINALPRAKASHFSD&theme=github_dark" />
+</p>
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -149,6 +160,9 @@ I am a versatile engineer who speaks the language of both **Code and Design**. I
 ## 🏆 GitHub Trophies
 
 [![Trophies](https://github-profile-trophies.vercel.app/?username=MRINALPRAKASHFSD&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophies)
+
+
+
 
 
 
