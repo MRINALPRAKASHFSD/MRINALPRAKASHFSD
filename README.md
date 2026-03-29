@@ -36,7 +36,7 @@ I am a versatile engineer who speaks the language of both **Code and Design**. I
   <a href="https://www.linkedin.com/in/mrinal-prakash-a5482b339" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
   </a>
-  <a href="https://www.instagram.com/mrinalprakash.dev" target="_blank">
+  <a href="https://www.instagram.com/mrinal.prakash" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
   </a>
   <a href="mailto:mrinalprakash.dev@gmail.com">
