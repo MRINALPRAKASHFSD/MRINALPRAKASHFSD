@@ -34,23 +34,51 @@
 
 ---
 
-## 👋 About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> About Me
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" />
 
 ```typescript
-const mrinal = {
-  name      : "Mrinal Prakash",
-  role      : "Full-Stack Software Developer",
-  location  : "Delhi-NCR, India 🇮🇳",
-  mbti      : "ENFJ — The Protagonist",
-  status    : "open_to_work ✅",
-  stack     : ["React", "Node.js", "Express", "MongoDB", "Python", "Java", "Next.js"],
-  openTo    : ["Freelance", "Internships", "Startup Consulting", "Equity Partnerships"],
-  funFacts  : ["☕ Chai-fueled", "🌙 Late-night builder", "🎵 Music while coding"],
-  quote     : "Logic in the code. Magic in the design."
-};
+┌─────────────────────────────────────────┐
+│          MRINAL.PRAKASH.EXE             │
+│─────────────────────────────────────────│
+│  name     : "Mrinal Prakash"            │
+│  role     : "Full-Stack Developer"      │
+│  location : "Delhi-NCR, India 🇮🇳"       │
+│  mbti     : "ENFJ — The Protagonist"    │
+│  status   : "open_to_work ✅"           │
+│─────────────────────────────────────────│
+│  stack    : [                           │
+│    "React", "Node.js", "MongoDB",       │
+│    "Python", "Java", "Next.js"          │
+│  ]                                      │
+│─────────────────────────────────────────│
+│  openTo   : [                           │
+│    "Freelance", "Internships",          │
+│    "Startup Consulting", "Equity"       │
+│  ]                                      │
+│  quote: "Logic in the code.             │
+│          Magic in the design." ⚡       │
+└─────────────────────────────────────────┘
 ```
 
-> *"I don't just code. I build scalable solutions that founders trust — combining technical excellence with people-first leadership and systems designed for 100x growth."*
+<br clear="right"/>
+
+<!-- ██████████████████████████████████████████ -->
+<!--          ANIMATED STATS ROW                -->
+<!-- ██████████████████████████████████████████ -->
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/🏗️_Projects-6+_Live-7C3AED?style=for-the-badge&labelColor=0D0D0D" />
+&nbsp;
+<img src="https://img.shields.io/badge/⚡_Experience-3+_Years_Building-06B6D4?style=for-the-badge&labelColor=0D0D0D" />
+&nbsp;
+<img src="https://img.shields.io/badge/🎯_Roles-4_Active-EC4899?style=for-the-badge&labelColor=0D0D0D" />
+&nbsp;
+<img src="https://img.shields.io/badge/📍_Location-Delhi--NCR-F59E0B?style=for-the-badge&labelColor=0D0D0D" />
+
+</div>
 
 ---
 
