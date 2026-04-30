@@ -184,13 +184,12 @@
 
 ![eOzka](https://img.shields.io/badge/CSO_@_eOzka-Feb_2026_–_Present-7C3AED?style=for-the-badge&labelColor=0D0D0D)
 ![Cloud CoE](https://img.shields.io/badge/Ambassador_@_Cloud_CoE_KRMU-2025_–_Present-22C55E?style=for-the-badge&labelColor=0D0D0D)
-![TribeX](https://img.shields.io/badge/Logistics_Mgr_@_TribeX_Esports-2025_–_Present-F59E0B?style=for-the-badge&labelColor=0D0D0D)
 
 <br/>
 
 **⬜ Past**
 
-![TechTribeX](https://img.shields.io/badge/Tech_Team_Lead_@_TechTribeX-2025_–_Apr_2026-06B6D4?style=for-the-badge&labelColor=0D0D0D)
+![TechTribeX](https://img.shields.io/badge/Tech_Team_Lead_@_TechTribeX-Sep2024_–_Apr_2026-06B6D4?style=for-the-badge&labelColor=0D0D0D)
 ![CodeAlpha](https://img.shields.io/badge/FullStack_Intern_@_CodeAlpha-Jun_–_Aug_2025-3B82F6?style=for-the-badge&labelColor=0D0D0D)
 ![FutureInterns](https://img.shields.io/badge/ML_Intern_@_Future_Interns-Apr_–_May_2025-EC4899?style=for-the-badge&labelColor=0D0D0D)
 ![Musports](https://img.shields.io/badge/FS_Dev_@_Musports_India-Jun_–_Aug_2025-EF4444?style=for-the-badge&labelColor=0D0D0D)
