@@ -203,7 +203,8 @@ fun_facts:
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=MRINALPRAKASHFSD&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=MRINALPRAKASHFSD&theme=darkhub&column=7&margin-w=10&margin-h=10" />
+
 
 </div>
 
@@ -269,7 +270,7 @@ fun_facts:
 ║  Jun–Jul 25  ║  📱 App Developer Intern             ║  CodeAlpha            ║
 ║  Jun–Jul 25  ║  🌐 Full Stack Developer Intern      ║  CodeAlpha            ║
 ║  Apr–May 25  ║  🤖 Machine Learning Intern          ║  Future Interns       ║
-║  Sep 24–Apr 26  ║  ⚡ Tech Team Lead               ║  TechTribeX           ║
+║  Sep 24–Apr  ║  ⚡ Tech Team Lead                   ║     TechTribeX        ║
 ╚══════════════╩══════════════════════════════════════╩═══════════════════════╝
 ```
 
@@ -332,7 +333,7 @@ fun_facts:
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=2000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=30&lines=💬+%22Great+code+solves+today's+problem.+Great+architecture+solves+tomorrow's+too.%22" alt="quote"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=3000&color=58A6FF&center=true&vCenter=true&repeat=true&width=800&height=30&lines=%F0%9F%92%AC+Great+code+solves+today+problem.+Great+architecture+solves+tomorrow+too.)](https://git.io/typing-svg)
 
 </div>
 
@@ -351,8 +352,8 @@ fun_facts:
     srcset="https://raw.githubusercontent.com/MRINALPRAKASHFSD/MRINALPRAKASHFSD/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/MRINALPRAKASHFSD/MRINALPRAKASHFSD/output/github-snake.svg" />
-  <img alt="github contribution snake animation"
-    src="https://raw.githubusercontent.com/MRINALPRAKASHFSD/MRINALPRAKASHFSD/output/github-snake.svg" />
+  <img alt="Snake animation loading... run the Generate Snake workflow in Actions to activate 🐍"
+    src="https://raw.githubusercontent.com/MRINALPRAKASHFSD/MRINALPRAKASHFSD/output/github-snake-dark.svg" />
 </picture>
 
 </div>
