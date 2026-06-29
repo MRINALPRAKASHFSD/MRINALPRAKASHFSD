@@ -267,23 +267,7 @@ fun_facts:
 <!--            EXPERIENCE TIMELINE                 -->
 <!-- ══════════════════════════════════════════════ -->
 
-## 💼 Experience Timeline
 
-```
-╔══════════════╦══════════════════════════════════════╦═══════════════════════╗
-║   DATE       ║  ROLE                                ║  ORGANIZATION         ║
-╠══════════════╬══════════════════════════════════════╬═══════════════════════╣
-║  Jun 2026 ▶  ║  👑 Chapter President                ║  GeekRoom KRMU        ║
-║  Apr 2026 ▶  ║  🏢 Managing Director                ║  eOzka                ║
-║  Jan 2026 ▶  ║  🌩️  Student Ambassador              ║  CoE Cloud · KRMU     ║
-║  Jul–Dec 25  ║  🔓 Tech Contributor                 ║  GirlScript GSSOC '25 ║
-║  Jun–Aug 25  ║  💻 Full-Stack Dev & Campus Amb.     ║  Musports India       ║
-║  Jun–Jul 25  ║  📱 App Developer Intern             ║  CodeAlpha            ║
-║  Jun–Jul 25  ║  🌐 Full Stack Developer Intern      ║  CodeAlpha            ║
-║  Apr–May 25  ║  🤖 Machine Learning Intern          ║  Future Interns       ║
-║  Sep 24–Apr 26  ║  ⚡ Tech Team Lead               ║  TechTribeX           ║
-╚══════════════╩══════════════════════════════════════╩═══════════════════════╝
-```
 
 <br/>
 
