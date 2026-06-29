@@ -40,7 +40,11 @@
 
 ## 🧠 About Me
 
-<img align="right" alt="Man at High-End Setup" width="370" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="680" alt="Developer at High-End Setup"/>
+</div>
+
+<br/>
 
 ```yaml
 # ── mrinal.config.yaml ──────────────────────────
@@ -80,8 +84,6 @@ fun_facts:
   🌍 Active open-source contributor
   ☕ Powered by chai & late-night commits
 ```
-
-<br clear="right"/>
 
 <br/>
 
