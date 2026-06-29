@@ -1,0 +1,13 @@
+{
+  "name": "spotify-widget",
+  "version": "1.0.0",
+  "description": "Custom Spotify Widget for GitHub Profile",
+  "main": "spotify/spotify.js",
+  "scripts": {
+    "start": "node spotify/spotify.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5"
+  }
+}
