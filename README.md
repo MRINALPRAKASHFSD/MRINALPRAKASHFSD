@@ -218,6 +218,13 @@ fun_facts:
 </div>
 
 <br/>
+---
+
+## 📊 GitHub Dashboard
+
+<p align="center">
+  <img src="./metrics.svg" width="100%">
+</p>
 
 ---
 
