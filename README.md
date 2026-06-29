@@ -50,6 +50,8 @@
 <!--                  ABOUT ME                      -->
 <!-- ══════════════════════════════════════════════ -->
 
+
+
 ## 🧠 About Me
 
 <div align="center">
@@ -167,6 +169,17 @@ fun_facts:
 </div>
 
 <br/>
+
+---
+---
+
+# 💻 LeetCode Journey
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/Mrinalprakash9?theme=dark&font=JetBrains%20Mono&ext=contest" width="850"/>
+
+</div>
 
 ---
 
