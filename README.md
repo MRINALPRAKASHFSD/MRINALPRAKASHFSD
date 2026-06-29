@@ -40,7 +40,7 @@
 
 ## 🧠 About Me
 
-<img align="right" alt="Coding GIF" width="370" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
+<img align="right" alt="Man at High-End Setup" width="370" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ```yaml
 # ── mrinal.config.yaml ──────────────────────────
@@ -199,23 +199,6 @@ fun_facts:
 <!--               GITHUB TROPHIES                  -->
 <!-- ══════════════════════════════════════════════ -->
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MRINALPRAKASHFSD&theme=darkhub&column=7&margin-w=10&margin-h=10" />
-
-
-</div>
-
-<br/>
-
----
-
-<!-- ══════════════════════════════════════════════ -->
-<!--               GITHUB STATS                     -->
-<!-- ══════════════════════════════════════════════ -->
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -270,7 +253,7 @@ fun_facts:
 ║  Jun–Jul 25  ║  📱 App Developer Intern             ║  CodeAlpha            ║
 ║  Jun–Jul 25  ║  🌐 Full Stack Developer Intern      ║  CodeAlpha            ║
 ║  Apr–May 25  ║  🤖 Machine Learning Intern          ║  Future Interns       ║
-║  Sep 24–Apr  ║  ⚡ Tech Team Lead                   ║     TechTribeX        ║
+║  Sep 24–Apr 26  ║  ⚡ Tech Team Lead               ║  TechTribeX           ║
 ╚══════════════╩══════════════════════════════════════╩═══════════════════════╝
 ```
 
