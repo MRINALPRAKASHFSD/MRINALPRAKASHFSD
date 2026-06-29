@@ -13,28 +13,28 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout Repository
+        uses: actions/checkout@v4
 
-      - uses: lowlighter/metrics@latest
+      - name: Generate Spotify Card
+        uses: lowlighter/metrics@latest
         with:
           filename: images/spotify.svg
-
           token: ${{ secrets.METRICS_TOKEN }}
 
           base: ""
 
           plugin_music: yes
           plugin_music_provider: spotify
-
-          plugin_music_token: ${{ secrets.SPOTIFY_CLIENT_ID }}
           plugin_music_user: current
           plugin_music_mode: recent
 
-        env:
-          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
-          SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+          plugin_music_token: >-
+            ${{ secrets.SPOTIFY_CLIENT_ID }},
+            ${{ secrets.SPOTIFY_CLIENT_SECRET }},
+            ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
 
       - name: Commit generated files
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Update Spotify"
+          commit_message: "Update Spotify Now Playing"
