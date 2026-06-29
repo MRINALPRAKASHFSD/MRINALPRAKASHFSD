@@ -34,6 +34,18 @@
 
 ---
 
+---
+
+# 📊 GitHub Dashboard
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/MRINALPRAKASHFSD/MRINALPRAKASHFSD/main/metrics.svg" alt="GitHub Metrics" width="100%"/>
+
+</div>
+
+---
+
 <!-- ══════════════════════════════════════════════ -->
 <!--                  ABOUT ME                      -->
 <!-- ══════════════════════════════════════════════ -->
@@ -220,13 +232,7 @@ fun_facts:
 <br/>
 ---
 
-## 📊 GitHub Dashboard
 
-<p align="center">
-  <img src="./metrics.svg" width="100%">
-</p>
-
----
 
 <!-- ══════════════════════════════════════════════ -->
 <!--             CONTRIBUTION GRAPH                 -->
