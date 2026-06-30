@@ -135,8 +135,9 @@ module.exports = async (req, res) => {
 
     res.status(200).send(svg);
   } catch (err) {
-    console.error(err);
-
-    res.status(500).send("Spotify widget failed");
-  }
-};
+  console.error(err);
+  res.status(500).json({
+    error: err.message,
+    stack: err.stack
+  });
+}    }
