@@ -126,6 +126,7 @@ const songData = {
 module.exports = async (req, res) => {
   try {
     const songData = await getCurrentTrack();
+    console.log("songData =", songData);
 
    const svg = generateSVG(songData);
 
