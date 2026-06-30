@@ -3,7 +3,7 @@ require("dotenv").config();
 const fs = require("fs");
 const axios = require("axios");
 const generateSVG = require("./generateSVG");
-const Vibrant = require("node-vibrant");
+const { Vibrant } = require("node-vibrant/node");
 
 const CLIENT_ID = process.env.SPOTIFY_CLIENT_ID;
 const CLIENT_SECRET = process.env.SPOTIFY_CLIENT_SECRET;
@@ -46,6 +46,24 @@ async function downloadCover(url) {
   });
 }
 
+async function getTheme(imagePath) {
+
+    const palette = await Vibrant.from(imagePath).getPalette();
+
+    return {
+
+        accent: palette.Vibrant?.hex || "#1DB954",
+
+        dark: palette.DarkVibrant?.hex || "#0b0f18",
+
+        light: palette.LightVibrant?.hex || "#ffffff",
+
+        muted: palette.Muted?.hex || "#666666",
+
+    };
+
+}
+
 async function getCurrentTrack() {
   const token = await getAccessToken();
 
@@ -72,6 +90,7 @@ async function getCurrentTrack() {
 
   // Download album cover
   await downloadCover(song.album.images[0].url);
+  const theme = await getTheme("spotify/cover.jpg");
 
  const coverBase64 = fs
   .readFileSync("spotify/cover.jpg")
@@ -86,6 +105,7 @@ const songData = {
 
   progress,
   duration,
+  theme,
 };
   // Generate SVG card
   generateSVG(songData);
