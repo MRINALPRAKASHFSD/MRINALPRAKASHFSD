@@ -382,6 +382,8 @@ ${statusText}
 `;
 
   fs.writeFileSync("spotify/spotify.svg", svg);
+
+return svg;
 }
 
 module.exports = generateSVG;
