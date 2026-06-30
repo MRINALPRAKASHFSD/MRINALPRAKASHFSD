@@ -2,7 +2,7 @@ require("dotenv").config();
 
 const fs = require("fs");
 const axios = require("axios");
-const generateSVG = require("./generateSVG");
+const generateSVG = require("../spotify/generateSVG");
 const { Vibrant } = require("node-vibrant/node");
 
 const CLIENT_ID = process.env.SPOTIFY_CLIENT_ID;
@@ -127,7 +127,7 @@ module.exports = async (req, res) => {
   try {
     const songData = await getCurrentTrack();
 
-    const svg = require("fs").readFileSync("spotify/spotify.svg", "utf8");
+   const svg = generateSVG(songData);
 
     res.setHeader("Content-Type", "image/svg+xml");
     res.setHeader("Cache-Control", "public, max-age=60");
