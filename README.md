@@ -241,39 +241,9 @@ fun_facts:
 
 ## 💼 Experience Timeline
 
-```
-2026  ●── Chapter President @ GeekRoom KRMU              (Jun 2026 – Present)
-      │    └─ Leading the GeekRoom chapter at KR Mangalam University
-      │
-      ●── Managing Director & Vice Chairperson @ eOzka   (Apr 2026 – Present)
-      │    └─ 2nd-in-command · Strategy · IP oversight · Legal-risk
-      │
-      ●── Student Ambassador @ CoE Cloud Computing KRMU  (Jan 2026 – Present)
-           └─ Gurugram on-site · Student Welfare & Council
-
-2025  ●── Logistics Manager @ TribeX Esports             (Sep 2025 – Present)
-      │    └─ Event logistics · Resource coordination · Esports ops
-      │
-      ●── Tech Team Lead @ TechTribeX                    (Sep 2024 – Present)
-      │    └─ HACK KRMU 5.0 · 54hr · ₹5L prize · 200+ participants · 50+ mentored
-      │
-      ●── Tech Contributor @ GirlScript Summer of Code   (Jul – Dec 2025)
-      │    └─ Active open-source contributions · 6 months
-      │
-      ●── Full-Stack Dev & Campus Ambassador @ MUESPORTS  (Jun – Aug 2025)
-      │
-      ●── Full Stack Developer Intern @ CodeAlpha         (Jun – Jul 2025)
-      │    └─ Cert + Letter of Recommendation + Offer Letter
-      │
-      ●── App Developer Intern @ CodeAlpha                (Jun – Jul 2025)
-      │    └─ 2 Certs + Offer Letter
-      │
-      ●── Machine Learning Intern @ Future Interns        (Apr – May 2025)
-           └─ Python · NLP · Cert + LoR
-
-2024  ●── B.Tech CSE @ K.R. Mangalam University          (Aug 2024 – Jun 2028)
-           └─ Computer Science · AI/ML specialization
-```
+<div align="center">
+  <img src="images/experience.svg" alt="Animated Experience Timeline" width="800" />
+</div>
 
 ---
 
