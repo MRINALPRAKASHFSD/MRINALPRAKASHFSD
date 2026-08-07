@@ -86,53 +86,7 @@ fun_facts:
 ## 🛠️ Tech Arsenal
 
 <div align="center">
-
-### 💬 Languages
-![Languages](https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css&theme=dark)
-
-### 🎨 Frontend
-![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite,figma&theme=dark)
-
-[![Leaflet.js](https://img.shields.io/badge/Leaflet.js-199900?style=flat-square&logo=leaflet&logoColor=white)](https://leafletjs.com)
-[![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)](https://chartjs.org)
-[![MapboxGL](https://img.shields.io/badge/MapboxGL-000000?style=flat-square&logo=mapbox&logoColor=white)](https://mapbox.com)
-
-### ⚙️ Backend
-![Backend](https://skillicons.dev/icons?i=nodejs,express,flask,fastapi&theme=dark)
-
-[![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io)](https://socket.io)
-[![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://github.com/MRINALPRAKASHFSD)
-[![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)](https://mongoosejs.com)
-[![Microservices](https://img.shields.io/badge/Microservices-0052CC?style=flat-square&logo=amazonaws&logoColor=white)](https://github.com/MRINALPRAKASHFSD)
-[![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)](https://jwt.io)
-[![RBAC](https://img.shields.io/badge/RBAC-4B0082?style=flat-square&logo=shield&logoColor=white)](https://github.com/MRINALPRAKASHFSD)
-
-### 🗄️ Databases
-![Databases](https://skillicons.dev/icons?i=mongodb,postgresql,firebase,supabase,sqlite,mysql&theme=dark)
-
-### 🤖 AI / ML
-![AI](https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch&theme=dark)
-
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)](https://matplotlib.org)
-[![NLP](https://img.shields.io/badge/NLP-8B00FF?style=flat-square&logo=python&logoColor=white)](https://github.com/MRINALPRAKASHFSD)
-[![LSTM](https://img.shields.io/badge/LSTM-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://github.com/MRINALPRAKASHFSD)
-
-### 🚀 DevOps & Cloud
-![DevOps](https://skillicons.dev/icons?i=git,github,githubactions,vercel,docker,aws,vscode&theme=dark)
-
-[![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)](https://render.com)
-[![APIsec CI/CD](https://img.shields.io/badge/APIsec%20CI%2FCD-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://github.com/MRINALPRAKASHFSD)
-[![Agile/Scrum](https://img.shields.io/badge/Agile%2FScrum-0052CC?style=flat-square&logo=jira&logoColor=white)](https://github.com/MRINALPRAKASHFSD)
-
-### 📱 Mobile & Other
-![Mobile](https://skillicons.dev/icons?i=flutter,dart&theme=dark)
-
-[![Chrome Extension](https://img.shields.io/badge/Chrome%20Extensions-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://github.com/MRINALPRAKASHFSD)
-[![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)](https://canva.com)
-[![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)](https://microsoft.com)
-
+  <img src="images/tech_stack.svg" alt="Animated Tech Stack" width="800">
 </div>
 
 ---
