@@ -86,7 +86,19 @@ fun_facts:
 ## 🛠️ Tech Arsenal
 
 <div align="center">
-  <img src="images/tech_stack.svg" alt="Animated Tech Stack" width="800">
+
+### 🎨 Frontend & UI
+<img src="images/tech_frontend.svg" alt="Frontend Tech" />
+
+### ⚙️ Backend & API
+<img src="images/tech_backend.svg" alt="Backend Tech" />
+
+### 🗄️ Data & AI
+<img src="images/tech_data_ai.svg" alt="Data & AI" />
+
+### 🚀 DevOps & Tools
+<img src="images/tech_tools.svg" alt="DevOps Tools" />
+
 </div>
 
 ---
