@@ -179,6 +179,16 @@ fun_facts:
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophies.vercel.app/?username=MRINALPRAKASHFSD&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/MRINALPRAKASHFSD)
+
+</div>
+
+---
+
 ## 🔥 Streak Stats
 
 <div align="center">
@@ -199,15 +209,7 @@ fun_facts:
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=MRINALPRAKASHFSD&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/MRINALPRAKASHFSD)
-
-</div>
-
----
 
 ## 🏗️ Featured Projects
 
