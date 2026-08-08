@@ -1,7 +1,7 @@
 <!-- HEADER BANNER -->
 <div align="center">
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1755a7,100:00e5ff&height=220&section=header&text=MRINAL%20PRAKASH&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20MEAN%20%7C%20JAMstack%20%7C%20Serverless%20%7C%20AI%2FML%20%7C%20Cloud-Native&descSize=16&descColor=a0c4e8&descAlignY=60&animation=fadeIn)](https://github.com/MRINALPRAKASHFSD)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1755a7,100:00e5ff&height=220&section=header&text=MRINAL%20PRAKASH&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20MEAN%20%7C%20JAMstack%20%7C%&descSize=16&descColor=a0c4e8&descAlignY=60&animation=fadeIn)](https://github.com/MRINALPRAKASHFSD)
 
 </div>
 
