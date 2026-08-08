@@ -74,11 +74,7 @@ open_to:
   ✅ Technical Leadership Roles
   ✅ Open-Source Contributions
 
-fun_facts:
-  🏆 Mentored 50+ junior developers
-  📊 6,949+ LinkedIn followers
-  💻 799 commits · 55-day streak
-  ☕ Powered by chai & late-night commits
+
 ```
 
 ---
@@ -150,24 +146,6 @@ fun_facts:
 
 ---
 
-
-
-## 🏗️ Featured Projects
-
-| 🔥 Project | ⚡ Stack | 🌐 Live | 📊 Impact |
-|---|---|---|---|
-| **ParadigmShift HRMS** | React 18 · Node · MongoDB · Socket.io · JWT · RBAC | [Live →](https://mini-project-paradigm-shift-5y6i.vercel.app) | 6-member Agile team · 20+ API routes · 11 real-time events |
-| **AetherFlow Supply Intelligence** | Next.js 16 · SQLite3 · Neural Sim Engine · RBAC | [Live →](https://aetherflowintelligence.vercel.app) | 17-table schema · 3,200+ records · 300%+ shock tests |
-| **PolluTrack** | Leaflet.js · Chart.js · WAQI API · AI Advisor | [Live →](https://pollu-track-topaz.vercel.app) | 6,000+ stations · forecasting · PDF reports |
-| **SustainFlow Predictor** | Python · scikit-learn · Pandas | Private | **1,000+ daily ML requests** |
-| **EmpowerHer** | MERN · Full-Stack Web App | Private | **500+ active users** |
-| **ShiftKey** | eOzka · On-Demand Driver-as-a-Service | Active | Live under eOzka |
-| **Sentinel Health Watch** | MERN · LSTM · MapboxGL | Built 54hr | HACK KRMU 5.0 · Delhi health dashboard |
-
-*"Building the Inevitable."*
-
----
-
 ## 🧩 LeetCode
 
 <div align="center">
@@ -199,17 +177,6 @@ fun_facts:
 </picture>
 
 </div>
-
----
-
-## 🏓 ping community
-
-| 🏗️ What I Build | 🤝 How I Connect | 📚 What I'm Exploring |
-|---|---|---|
-| Full-Stack Web Apps | WhatsApp Tech Networks | Machine Learning & AI/ML |
-| Enterprise SaaS Platforms | Hackathon Coordination | Graph Algorithms & DSA |
-| Supply Chain Intelligence | Open Source Contributions | AWS Cloud Architecture |
-| AI-Powered Dashboards | Technical Mentorship | Geospatial Data Systems |
 
 ---
 
