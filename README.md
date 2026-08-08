@@ -103,36 +103,11 @@ fun_facts:
 
 ---
 
-## 📊 neofetch --stats
+## 📊 GitHub Analytics
 
 <div align="center">
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MRINALPRAKASHFSD&theme=github_dark" alt="GitHub Stats"/>
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MRINALPRAKASHFSD&theme=github_dark" alt="Top Languages"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MRINALPRAKASHFSD&theme=github_dark" alt="Most Commit Language"/>
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MRINALPRAKASHFSD&theme=github_dark&utcOffset=5.5" alt="Productive Time"/>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<!-- Profile details full width -->
-<div align="center">
-
-[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MRINALPRAKASHFSD&theme=github_dark)](https://github.com/MRINALPRAKASHFSD)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=MRINALPRAKASHFSD&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=a0c4e8&icon_color=1755a7&ring_color=00e5ff" height="195" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRINALPRAKASHFSD&layout=compact&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=a0c4e8" height="195" alt="Top Languages"/>
 </div>
 
 ---
