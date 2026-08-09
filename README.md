@@ -1,14 +1,14 @@
 <!-- HEADER BANNER -->
 <div align="center">
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1755a7,100:00e5ff&height=220&section=header&text=MRINAL%20PRAKASH&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20MEAN%20%7C%20JAMstack%20%7C%&descSize=16&descColor=a0c4e8&descAlignY=60&animation=fadeIn)](https://github.com/MRINALPRAKASHFSD)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1755a7,100:00e5ff&height=220&section=header&text=MRINAL%20PRAKASH&fontSize=60&fontColor=ffffff&fontAlignY=38&desc&descSize=16&descColor=a0c4e8&descAlignY=60&animation=fadeIn)](https://github.com/MRINALPRAKASHFSD)
 
 </div>
 
 <!-- TYPING ANIMATION -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Developer;MERN+%7C+Next.js+%7C+AI%2FML+%7C+Cloud-Native;Building+Solutions+Founders+Trust;Chapter+President+%40+GeekRoom+KRMU;Managing+Director+%40+eOzka;Open+to+Freelance+%26+Startup+Collabs)](https://github.com/MRINALPRAKASHFSD)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Developer;MERN+%7C+MEAN+%7C+JAMstack+%7C+Cloud-Native;Building+Solutions+Founders+Trust;Chapter+President+%40+GeekRoom+KRMU;Managing+Director+%40+eOzka;Open+to+Freelance+%26+Startup+Collabs)](https://github.com/MRINALPRAKASHFSD)
 
 </div>
 
