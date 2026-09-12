@@ -140,7 +140,7 @@ open_to:
 
 <div align="center">
 
-[![Mrinal's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=MRINALPRAKASHFSD&theme=github-compact&bg_color=0d1117&color=00e5ff&line=1755a7&point=00e5ff&area=true&hide_border=true&area_color=1755a7)](https://github.com/MRINALPRAKASHFSD)
+[![Mrinal's Contribution Graph](https://github-readme-activity-graph-omega-five.vercel.app/graph?username=MRINALPRAKASHFSD&theme=github-compact&bg_color=0d1117&color=00e5ff&line=1755a7&point=00e5ff&area=true&hide_border=true&area_color=1755a7)](https://github.com/MRINALPRAKASHFSD)
 
 </div>
 
