@@ -36,9 +36,6 @@
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-8.5k%2B%20Followers-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mrinal-prakash-fullstackdeveloper/)
 &nbsp;
-[![GitHub Pro](https://img.shields.io/badge/GitHub-PRO-8957E5?style=flat-square&logo=github&logoColor=white)](https://github.com/MRINALPRAKASHFSD)
-&nbsp;
-[![Achievements](https://img.shields.io/badge/Achievements-YOLO%20%7C%20Quickdraw-F43F5E?style=flat-square&logo=github)](https://github.com/MRINALPRAKASHFSD?tab=achievements)
 
 </div>
 
@@ -162,13 +159,7 @@ open_to:
 
   <br/><br/>
 
-  <a href="https://github.com/GeekRoom-KRMU">
-    <img src="https://img.shields.io/badge/GeekRoom_KRMU-Chapter_President-10B981?style=flat-square&logo=github&logoColor=white" alt="GeekRoom Chapter President" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/eOzka">
-    <img src="https://img.shields.io/badge/eOzka-Managing_Director-6366F1?style=flat-square&logo=github&logoColor=white" alt="eOzka Managing Director" />
-  </a>
+  
 
 </div>
 
