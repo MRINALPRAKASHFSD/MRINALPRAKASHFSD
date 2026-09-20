@@ -34,7 +34,11 @@
 &nbsp;
 ![GitHub followers](https://img.shields.io/github/followers/MRINALPRAKASHFSD?style=flat-square&color=1755a7&label=GitHub+Followers)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8.5k%2B%20Followers-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/mrinalprakash-fullstackdeveloper)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8.5k%2B%20Followers-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mrinal-prakash-fullstackdeveloper/)
+&nbsp;
+[![GitHub Pro](https://img.shields.io/badge/GitHub-PRO-8957E5?style=flat-square&logo=github&logoColor=white)](https://github.com/MRINALPRAKASHFSD)
+&nbsp;
+[![Achievements](https://img.shields.io/badge/Achievements-YOLO%20%7C%20Quickdraw-F43F5E?style=flat-square&logo=github)](https://github.com/MRINALPRAKASHFSD?tab=achievements)
 
 </div>
 
@@ -120,7 +124,51 @@ open_to:
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophies.vercel.app/?username=MRINALPRAKASHFSD&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/MRINALPRAKASHFSD)
+[![Trophies](https://github-profile-trophies.vercel.app/?username=MRINALPRAKASHFSD&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=8)](https://github.com/MRINALPRAKASHFSD)
+
+</div>
+
+---
+
+## 🎖️ GitHub Achievements & Badges
+
+<div align="center">
+
+  <a href="https://github.com/MRINALPRAKASHFSD?achievement=yolo&tab=achievements">
+    <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="95" height="95" alt="YOLO Achievement" title="YOLO — Merged a PR without code review" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/MRINALPRAKASHFSD?achievement=quickdraw&tab=achievements">
+    <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="95" height="95" alt="Quickdraw Achievement" title="Quickdraw — Closed an issue or PR within 5 minutes" />
+  </a>
+
+  <br/><br/>
+
+  <a href="https://github.com/MRINALPRAKASHFSD">
+    <img src="https://img.shields.io/badge/GitHub-PRO_Member-8957E5?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pro" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/MRINALPRAKASHFSD?achievement=yolo&tab=achievements">
+    <img src="https://img.shields.io/badge/Achievement-YOLO-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="YOLO" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/MRINALPRAKASHFSD?achievement=quickdraw&tab=achievements">
+    <img src="https://img.shields.io/badge/Achievement-Quickdraw-F59E0B?style=for-the-badge&logo=github&logoColor=white" alt="Quickdraw" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/MRINALPRAKASHFSD">
+    <img src="https://img.shields.io/badge/Rank-Super_Committer_S-FFB800?style=for-the-badge&logo=git&logoColor=white" alt="Super Committer" />
+  </a>
+
+  <br/><br/>
+
+  <a href="https://github.com/GeekRoom-KRMU">
+    <img src="https://img.shields.io/badge/GeekRoom_KRMU-Chapter_President-10B981?style=flat-square&logo=github&logoColor=white" alt="GeekRoom Chapter President" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/eOzka">
+    <img src="https://img.shields.io/badge/eOzka-Managing_Director-6366F1?style=flat-square&logo=github&logoColor=white" alt="eOzka Managing Director" />
+  </a>
 
 </div>
 
