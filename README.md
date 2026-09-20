@@ -17,7 +17,7 @@
 <!-- SOCIAL BUTTONS -->
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mrinalprakash-fullstackdeveloper)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrinal-prakash-fullstackdeveloper/)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MRINALPRAKASHFSD)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/MRINALPRAKASHFSD)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mrinal.prakash)
