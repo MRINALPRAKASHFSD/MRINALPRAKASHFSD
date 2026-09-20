@@ -34,7 +34,7 @@
 &nbsp;
 ![GitHub followers](https://img.shields.io/github/followers/MRINALPRAKASHFSD?style=flat-square&color=1755a7&label=GitHub+Followers)
 &nbsp;
-![LinkedIn](https://img.shields.io/badge/LinkedIn-6.9k%2B%20Followers-0077B5?style=flat-square&logo=linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8.5k%2B%20Followers-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/mrinalprakash-fullstackdeveloper)
 
 </div>
 
