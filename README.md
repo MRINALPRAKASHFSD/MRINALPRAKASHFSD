@@ -131,6 +131,10 @@ open_to:
 
 <div align="center">
 
+  <a href="https://github.com/MRINALPRAKASHFSD?achievement=pull-shark&tab=achievements">
+    <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="95" height="95" alt="Pull Shark Achievement" title="Pull Shark — Opened pull requests that have been merged" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/MRINALPRAKASHFSD?achievement=yolo&tab=achievements">
     <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="95" height="95" alt="YOLO Achievement" title="YOLO — Merged a PR without code review" />
   </a>
@@ -145,6 +149,10 @@ open_to:
     <img src="https://img.shields.io/badge/GitHub-PRO_Member-8957E5?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pro" />
   </a>
   &nbsp;
+  <a href="https://github.com/MRINALPRAKASHFSD?achievement=pull-shark&tab=achievements">
+    <img src="https://img.shields.io/badge/Achievement-Pull_Shark-00E5FF?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark" />
+  </a>
+  &nbsp;
   <a href="https://github.com/MRINALPRAKASHFSD?achievement=yolo&tab=achievements">
     <img src="https://img.shields.io/badge/Achievement-YOLO-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="YOLO" />
   </a>
@@ -156,10 +164,6 @@ open_to:
   <a href="https://github.com/MRINALPRAKASHFSD">
     <img src="https://img.shields.io/badge/Rank-Super_Committer_S-FFB800?style=for-the-badge&logo=git&logoColor=white" alt="Super Committer" />
   </a>
-
-  <br/><br/>
-
-  
 
 </div>
 
