@@ -112,7 +112,7 @@ open_to:
 ## 📊 Deep Metrics & Habits
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MRINALPRAKASHFSD/MRINALPRAKASHFSD/main/metrics.svg" alt="GitHub Metrics" width="800" />
+  <img src="https://raw.githubusercontent.com/MRINALPRAKASHFSD/MRINALPRAKASHFSD/main/metrics.svg?v=2" alt="GitHub Metrics" width="800" />
 </div>
 
 ---
