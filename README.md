@@ -103,7 +103,7 @@ open_to:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=MRINALPRAKASHFSD&count_private=true&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=a0c4e8&icon_color=1755a7&ring_color=00e5ff&v=3" height="195" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=MRINALPRAKASHFSD&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=a0c4e8&icon_color=1755a7&ring_color=00e5ff&v=4" height="195" alt="GitHub Stats"/>
   <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=MRINALPRAKASHFSD&layout=compact&langs_count=10&count_private=true&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=a0c4e8&v=2" height="195" alt="Top Languages"/>
 </div>
 
@@ -173,7 +173,7 @@ open_to:
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=MRINALPRAKASHFSD&theme=github-dark-blue&hide_border=true&stroke=1755a7&ring=00e5ff&fire=ff6b6b&currStreakLabel=00e5ff&sideLabels=a0c4e8&dates=5a7a94)](https://github.com/MRINALPRAKASHFSD)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=MRINALPRAKASHFSD&theme=github-dark-blue&hide_border=true&stroke=1755a7&ring=00e5ff&fire=ff6b6b&currStreakLabel=00e5ff&sideLabels=a0c4e8&dates=5a7a94&starting_year=2025)](https://github.com/MRINALPRAKASHFSD)
 
 </div>
 
