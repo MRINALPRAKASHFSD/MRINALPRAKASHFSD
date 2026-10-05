@@ -49,7 +49,7 @@
 name        : "Mrinal Prakash"
 alias       : "Late-Night Builder"
 pronouns    : "He / Him"
-location    : "Delhi / Gurugram, India 🇮🇳"
+location    : "Delhi India 🇮🇳"
 
 motto: >
   "I don't just code.
